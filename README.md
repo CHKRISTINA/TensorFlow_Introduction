@@ -18,6 +18,6 @@ The third dimension can be seen as a volume, which can contain an infinite numbe
 
 And the fourth dimension goes beyond what we can easily visualize, but can be seen as space time, or a volume that changes through time, something like that.
 
-The following file "Multidimentional arrays" defines these arrays using TensorFlow.
+The following file "Multidimentional arrays.py" defines these arrays using TensorFlow.
 
-The file "Variables" take a look at how TensorFlow handles variables.
+The file "Variables.py" take a look at how TensorFlow handles variables.
